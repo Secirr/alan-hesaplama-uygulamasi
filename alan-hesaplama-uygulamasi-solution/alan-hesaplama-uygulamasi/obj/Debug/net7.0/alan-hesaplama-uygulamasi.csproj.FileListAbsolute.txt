@@ -1,0 +1,15 @@
+/Users/kadirozdemir/Desktop/alan-hesaplama-uygulamasi/alan-hesaplama-uygulamasi-solution/alan-hesaplama-uygulamasi/bin/Debug/net7.0/alan-hesaplama-uygulamasi
+/Users/kadirozdemir/Desktop/alan-hesaplama-uygulamasi/alan-hesaplama-uygulamasi-solution/alan-hesaplama-uygulamasi/bin/Debug/net7.0/alan-hesaplama-uygulamasi.deps.json
+/Users/kadirozdemir/Desktop/alan-hesaplama-uygulamasi/alan-hesaplama-uygulamasi-solution/alan-hesaplama-uygulamasi/bin/Debug/net7.0/alan-hesaplama-uygulamasi.runtimeconfig.json
+/Users/kadirozdemir/Desktop/alan-hesaplama-uygulamasi/alan-hesaplama-uygulamasi-solution/alan-hesaplama-uygulamasi/bin/Debug/net7.0/alan-hesaplama-uygulamasi.dll
+/Users/kadirozdemir/Desktop/alan-hesaplama-uygulamasi/alan-hesaplama-uygulamasi-solution/alan-hesaplama-uygulamasi/bin/Debug/net7.0/alan-hesaplama-uygulamasi.pdb
+/Users/kadirozdemir/Desktop/alan-hesaplama-uygulamasi/alan-hesaplama-uygulamasi-solution/alan-hesaplama-uygulamasi/obj/Debug/net7.0/alan-hesaplama-uygulamasi.csproj.AssemblyReference.cache
+/Users/kadirozdemir/Desktop/alan-hesaplama-uygulamasi/alan-hesaplama-uygulamasi-solution/alan-hesaplama-uygulamasi/obj/Debug/net7.0/alan-hesaplama-uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kadirozdemir/Desktop/alan-hesaplama-uygulamasi/alan-hesaplama-uygulamasi-solution/alan-hesaplama-uygulamasi/obj/Debug/net7.0/alan-hesaplama-uygulamasi.AssemblyInfoInputs.cache
+/Users/kadirozdemir/Desktop/alan-hesaplama-uygulamasi/alan-hesaplama-uygulamasi-solution/alan-hesaplama-uygulamasi/obj/Debug/net7.0/alan-hesaplama-uygulamasi.AssemblyInfo.cs
+/Users/kadirozdemir/Desktop/alan-hesaplama-uygulamasi/alan-hesaplama-uygulamasi-solution/alan-hesaplama-uygulamasi/obj/Debug/net7.0/alan-hesaplama-uygulamasi.csproj.CoreCompileInputs.cache
+/Users/kadirozdemir/Desktop/alan-hesaplama-uygulamasi/alan-hesaplama-uygulamasi-solution/alan-hesaplama-uygulamasi/obj/Debug/net7.0/alan-hesaplama-uygulamasi.dll
+/Users/kadirozdemir/Desktop/alan-hesaplama-uygulamasi/alan-hesaplama-uygulamasi-solution/alan-hesaplama-uygulamasi/obj/Debug/net7.0/refint/alan-hesaplama-uygulamasi.dll
+/Users/kadirozdemir/Desktop/alan-hesaplama-uygulamasi/alan-hesaplama-uygulamasi-solution/alan-hesaplama-uygulamasi/obj/Debug/net7.0/alan-hesaplama-uygulamasi.pdb
+/Users/kadirozdemir/Desktop/alan-hesaplama-uygulamasi/alan-hesaplama-uygulamasi-solution/alan-hesaplama-uygulamasi/obj/Debug/net7.0/alan-hesaplama-uygulamasi.genruntimeconfig.cache
+/Users/kadirozdemir/Desktop/alan-hesaplama-uygulamasi/alan-hesaplama-uygulamasi-solution/alan-hesaplama-uygulamasi/obj/Debug/net7.0/ref/alan-hesaplama-uygulamasi.dll

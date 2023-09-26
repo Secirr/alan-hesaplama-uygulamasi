@@ -1,4 +1,21 @@
 ﻿<Properties StartupConfiguration="{7B095783-2C23-4F70-BEB6-D7EDF82D834B}|Default">
-  <MonoDevelop.Ide.ItemProperties.alan-hesaplama-uygulamasi FirstBuild="True" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.alan-hesaplama-uygulamasi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="alan-hesaplama-uygulamasi/Program.cs">
+    <Files>
+      <File FileName="alan-hesaplama-uygulamasi/Program.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="alan-hesaplama-uygulamasi-solution" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
