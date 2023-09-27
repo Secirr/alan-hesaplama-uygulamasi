@@ -7,8 +7,16 @@ do
 
     MenuYaz();
 
-    Console.Write("Seçiminiz : ");
-    secim = int.Parse(Console.ReadLine());
+    bool result;
+    do
+    {
+        Console.Write("Seçiminiz : ");
+        string secimStr = Console.ReadLine();
+
+        result = int.TryParse(secimStr, out secim);
+    } while (result == false);
+
+  
 
     IslemYap(secim);
 
